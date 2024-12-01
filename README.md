@@ -1,4 +1,4 @@
-# Gravity-Runner-Godot-Game
+# Gravity Runner Godot Game
 An engaging platformer game built with Godot Engine, featuring dynamic gravity changes, interactive environments, and challenging obstacles. This project showcases advanced Godot scripting and game mechanics to create an immersive and fun gameplay experience.
 
 Features    
